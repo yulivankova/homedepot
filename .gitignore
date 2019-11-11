@@ -3,3 +3,5 @@ output
 *.pyc
 __pycache__
 project_presentation.pdf
+.ipynb_checkpoints
+.DS_Store
